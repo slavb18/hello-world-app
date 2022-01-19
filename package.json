@@ -6,7 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@ilb/node_context": "^1.0.26",
     "next": "^12.0.8",
     "next-auth": "^4.1.2",
     "next-transpile-modules": "^9.0.0",
